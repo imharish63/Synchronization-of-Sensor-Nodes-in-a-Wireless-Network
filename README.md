@@ -21,3 +21,8 @@ drift between them, the implemented and evaluated Time Synchronization Protocol
 works in an optimal solution and the offset is always less than 5 ms with a possible
 error of less than 5%. Furthermore, we can conclude that aging of the ESP32 device
 can reduce clock speed.
+
+# python files
+for monitoring serial port of Master and saving the latencies into CSV files.
+Other file to plot the recorded data.
+
