@@ -26,3 +26,5 @@ can reduce clock speed.
 for monitoring serial port of Master and saving the latencies into CSV files.
 Other file to plot the recorded data.
 
+# Implementation
+Refer implementation section of the report file.
