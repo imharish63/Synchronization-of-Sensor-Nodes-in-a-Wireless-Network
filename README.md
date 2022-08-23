@@ -26,5 +26,16 @@ can reduce clock speed.
 for monitoring serial port of Master and saving the latencies into CSV files.
 Other file to plot the recorded data.
 
+# methods for synchronizations
+1) NTP synchronization
+![alt text](https://github.com/imharish63/Synchronization-of-Sensor-Nodes-in-a-Wireless-Network/Abstract designs/All Devices Synchronized with NTP timestamps abstract design.png)
+
+2) clients synchronize with master and master to NTP server
+![alt text](https://github.com/imharish63/Synchronization-of-Sensor-Nodes-in-a-Wireless-Network/Abstract designs/Master Syncs with NTP Server.png)Master gets timestamp from NTP server & client get timstamp from master node.png)
+
+3) setup to calculate the drift periodically
+![alt text](https://github.com/imharish63/Synchronization-of-Sensor-Nodes-in-a-Wireless-Network/Abstract designs/Master Syncs with NTP Server.png)
+
+
 # Implementation
 Refer implementation section of the report file.
